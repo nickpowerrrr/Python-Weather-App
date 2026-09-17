@@ -35,7 +35,7 @@ class MainGUI:
         title_img = tk.PhotoImage(file=get_asset_path('images\\title.png'))
         title = canvas.create_image(300,75, image=title_img)
         # funny copyright
-        canvas.create_text(890, 700, text='Nick Brander 2025©',fill='White')
+        canvas.create_text(890, 700, text='Nickpowerrr 2025©',fill='White')
         
         
         
