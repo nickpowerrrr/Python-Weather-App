@@ -20,4 +20,4 @@ Simple weather using open-meteo.com API for weatherdata and TKinter to make the 
 3. run app.py
 
 
-<video src="path/to/video.mp4" width="320" height="240" controls></video>
+<video src="preview/preview.mp4" width="320" height="240" controls></video>
