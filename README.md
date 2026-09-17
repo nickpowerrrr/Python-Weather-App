@@ -19,5 +19,6 @@ Simple weather using open-meteo.com API for weatherdata and TKinter to make the 
 2. Download modules: ```Tkinter, PIL```
 3. run app.py
 
+# Preview
 
 ![Preview](preview/preview.gif)
