@@ -1,5 +1,5 @@
 # Python-Weather-App
-Simple weather app using an API and TKinter to make the UI
+Simple weather using open-meteo.com API for weatherdata and TKinter to make the UI
 
 # Technologies
 * ```Python``` As programming language
